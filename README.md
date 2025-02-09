@@ -11,6 +11,7 @@ pip install -r requirements.txt
 ```
 
 We additionally require the following libraries：
+- [PyTorch3D](https://github.com/facebookresearch/pytorch3d)
 - [MPI-IS Mesh Processing Library](https://github.com/MPI-IS/mesh)
 - [Manopth layer for PyTorch](https://github.com/hassony2/manopth)
 
